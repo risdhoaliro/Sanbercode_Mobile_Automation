@@ -1,5 +1,5 @@
 # Sanbercode_Mobile_Automation
-Sanbercode - Tugas Akhir Task 2 Mobile Automation with appium webdriverio
+Mobile automation apk Diet Meal App 
 
 ## Running Tests
 
