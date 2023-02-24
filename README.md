@@ -9,7 +9,7 @@ Mobile automation apk Diet Meal App
 npm install
 ```
 
-run webdriverIO - Appium
+## Run webdriverIO - Appium
 ```bash
 npm run wdio
 ```
